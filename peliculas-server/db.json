@@ -1,0 +1,220 @@
+{
+  "peliculas": [
+    {
+      "id": "thor-love-and-thunder",
+      "nombre": "Thor: Love and Thunder",
+      "categoria": "SuperHéroes",
+      "fecha": "6 jul 2022",
+      "descripcion": "Thor reclama la ayuda de Valquiria, Korg y su exnovia Jane Foster para luchar contra Gorr el Dios Carnicero, que pretende extinguir a los dioses.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ehSQcx7fYCRe92FPRdOjVjlgM3W.jpg"
+    },
+    {
+      "id": "Minions-origen-gru",
+      "nombre": "Minions: Origen de Gru",
+      "categoria": "Familiar",
+      "fecha": "29 jun 2022",
+      "descripcion": "La historia no contada del sueño de un niño de doce años de convertirse en el mayor supervillano del mundo.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zBk0guZ6NI2aHclb4sbrQdrrnOC.jpg"
+    },
+    {
+      "id": "3",
+      "nombre": "Sonic 2",
+      "categoria": "Familiar",
+      "fecha": "30 mar 2022",
+      "descripcion": "Cuando el maníaco Dr. Robotnik regresa a la Tierra con un nuevo aliado, Knuckles the Echidna, Sonic y su nuevo amigo Tails son todo lo que se interpone en su camino.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/8E7mIpEpSATxX5JEuw55GYx9hfk.jpg"
+    },
+    {
+      "id": "4",
+      "nombre": "Doctor Strange en el multiverso de la locura",
+      "categoria": "SuperHéroes",
+      "fecha": "4 may 2022",
+      "descripcion": "Doctor Strange, quien, con la ayuda de tanto antiguos como nuevos aliados místicos, recorre las complejas y peligrosas realidades alternativas del multiverso.",
+      "img": "https://image.tmdb.org/t/p/w185/vThe85YlGE5r7fqEVFePETqnWzk.jpg"
+    },
+    {
+      "id": "5",
+      "nombre": "Jurassic World: Dominion",
+      "categoria": "Aventura",
+      "fecha": "1 jun 2022",
+      "descripcion": "Años después de la destrucción de Isla Nublar, los dinosaurios viven y cazan junto a los humanos. Este equilibrio determinará, si los humanos seguirán siendo los depredadores máximos en un planeta que comparten con las criaturas temibles.",
+      "img": "https://www.ecartelera.com/carteles/13900/13909/003.jpg"
+    },
+    {
+      "id": "6",
+      "nombre": "Spider-Man: No Way Home",
+      "categoria": "SuperHéroes",
+      "fecha": "15 dic 2021",
+      "descripcion": "Con la identidad de Spider-Man ahora revelada, Peter recurre al Doctor Strange en busca de ayuda. Algo sale mal y el multiverso se convierte en la mayor amenaza. Ahora Peter debe descubrir qué significa realmente ser Spider-Man.",
+      "img": "https://www.themoviedb.org/t/p/original/osYbtvqjMUhEXgkuFJOsRYVpq6N.jpg"
+    },
+    {
+      "id": "7",
+      "nombre": "Dune",
+      "categoria": "Ciencia Ficción",
+      "fecha": "15 sep 2021",
+      "descripcion": "El hijo de una familia noble trata de vengarse de la muerte de su padre al mismo tiempo que salva un planeta rico en especias que se le encomienda proteger.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/hIEKzq0klqtz1H3S7QxzH4mMbvT.jpg"
+    },
+    {
+      "id": "8",
+      "nombre": "Todo En Todas Partes Al Mismo Tiempo",
+      "categoria": "Ciencia Ficción",
+      "fecha": "24 mar 2022",
+      "descripcion": "Una anciana inmigrante china se ve envuelta en una loca aventura, donde solo ella puede salvar lo que es importante para ella al conectarse con las vidas que podría haber llevado en otros universos.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/ildVXPXTQFly8VAgIrre5v5rbbQ.jpg"
+    },
+    {
+      "id": "9",
+      "nombre": "El hombre del norte",
+      "categoria": "Acción",
+      "fecha": "7 abr 2022",
+      "descripcion": "Está protagonizada por Alexander Skarsgård como el príncipe nórdico Amleth , que busca venganza después del asesinato de su padre.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/rdx0bIkwxW3EHvWn5kxZBFUT1Am.jpg"
+    },
+    {
+      "id": "10",
+      "nombre": "El último duelo",
+      "categoria": "Acción",
+      "fecha": "13 oct 2021",
+      "descripcion": "La historia real de una mujer que desafió a una nación e hizo historia.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/pA2zkZnfNR5v8hc07ekQGxgJg1r.jpg"
+    },
+    {
+      "id": "11",
+      "nombre": "¡Canta! 2",
+      "categoria": "Familiar",
+      "fecha": "01 dic 2021",
+      "descripcion": "Buster Moon y sus amigos deben persuadir a la estrella del rock Clay Calloway para que se una a ellos en el estreno de un nuevo espectáculo.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/9iIDsw7RJHYU94z7k4mbYP5IlYT.jpg"
+    },
+    {
+      "id": "12",
+      "nombre": "Encanto",
+      "categoria": "Familiar",
+      "fecha": "24 nov 2021",
+      "descripcion": "Encanto, te traslada a Colombia, donde una mágica familia vive en una casa llena de magia.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/cmAUAesxy48ydB8xktVqkZzNuWq.jpg"
+    },
+    {
+      "id": "13",
+      "nombre": "RED",
+      "categoria": "Familiar",
+      "fecha": "24 nov 2021",
+      "descripcion": "La adolescente Mei, de 13 años, se convierte en un panda rojo gigante cada vez que se pone muy nerviosa.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/A4jt7Gqa7dRT2ZIo3hNHc4esw3d.jpg"
+    },
+    {
+      "id": "14",
+      "nombre": "Animales Fantásticos: Los Secretos de Dumbledore",
+      "categoria": "Aventura",
+      "fecha": "24 nov 2021",
+      "descripcion": "El profesor Albus Dumbledore confía en el Magizoólogo Newt Scamander para dirigir un intrépido equipo de magos, brujas y un valiente panadero Muggle en una misión peligrosa",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/yOeuJdwag4bAlnvgrdweRoiuXGC.jpg"
+    },
+    {
+      "id": "15",
+      "nombre": "La Ciudad Perdida",
+      "categoria": "Comedia",
+      "fecha": "24 mar 2022",
+      "descripcion": "Una solitaria novelista romántica de gira con el modelo de la portada de su último libro se ve envuelta en un intento de secuestro que llevará a ambos a una feroz aventura en la jungla.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/grEVYkBAVIzQ4JmZ7ydceN9DFQR.jpg"
+    },
+    {
+      "id": "16",
+      "nombre": "Uncharted",
+      "categoria": "Aventura",
+      "fecha": "24 mar 2022",
+      "descripcion": "Nathan Drake trabajará para descubrir sus secretos, mientras sobreviven en una isla llena de piratas, mercenarios, y un misterioso enemigo, se embarcarán en una búsqueda sin precedentes por alcanzar el tesoro antes que sus perseguidores. Adaptación del aclamado videojuego homónimo.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/tlZpSxYuBRoVJBOpUrPdQe9FmFq.jpg"
+    },
+    {
+      "id": "17",
+      "nombre": "Morbius",
+      "categoria": "Acción",
+      "fecha": "30 mar 2022",
+      "descripcion": "Peligrosamente enfermo de un extraño trastorno sanguíneo, y determinado a salvar a otras personas que padecen su mismo destino, el doctor Morbius intenta una apuesta desesperada. Lo que en un principio parece ser un éxito radical, pronto se revela como un remedio potencialmente peor que la enfermedad.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4jcJHqIVsb4MFdYrDajXeEVlDvH.jpg"
+    },
+    {
+      "id": "18",
+      "nombre": "Los Tipos Malos",
+      "categoria": "Familiar",
+      "fecha": "17 mar 2022",
+      "descripcion": "Cinco villanos notorios: el Sr. Wolf, Mr. Snake, Mr. Piranha, Mr. Shark y Ms. Tarantula, que han pasado toda una vida juntos realizando grandes atracos.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/wFdwJh3fbhp5aiRbQelVz1mbbwP.jpg"
+    },
+    {
+      "id": "19",
+      "nombre": "Luck",
+      "categoria": "Familiar",
+      "fecha": "05 ago 2022",
+      "descripcion": "Sam Greenfield es la persona con menos suerte del mundo. Cuando de repente se encuentra en la desconocida Tierra de la Suerte, debe aliarse con los seres mágicos que la habitan para que su suerte cambie.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/q5v13A4zZ0ffXqDQMfxKcNu1xzQ.jpg"
+    },
+    {
+      "id": "20",
+      "nombre": "DC Liga de Supermascotas",
+      "categoria": "Familiar",
+      "fecha": "28 jul 2022",
+      "descripcion": "La historia sigue a Krypto la mascota de superman y 4 animales que harán equipo con el para vencer a lex luthor y liberar a la liga de la justicia.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/dXL2iC7WXUqzRQmDJ3NfzQUisni.jpg"
+    },
+    {
+      "id": "21",
+      "nombre": "El gato con botas: El último deseo",
+      "categoria": "Familiar",
+      "fecha": "7 oct 2022",
+      "descripcion": "El famoso gato va a descubrir que su pasión por las aventuras y los retos le está pasando factura. De sus nueve vidas, ya ha gastado ocho. Por eso, emprende un viaje extraordinario para encontrar su último deseo.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/zrqFDYwXfrePuWfrnuXXqXBQ5HR.jpg"
+    },
+    {
+      "id": "22",
+      "nombre": "Lightyear",
+      "categoria": "Familiar",
+      "fecha": "17 jun 2022",
+      "descripcion": "la historia del hombre que hay detrás del famoso muñeco Buzz Lightyear: un piloto de pruebas que terminó convirtiéndose en todo un héroe espacial.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/bPIm1SXYp5RQ3c4wP91JQRewIb8.jpg"
+    },
+    {
+      "id": "23",
+      "nombre": "El Agente Invisible",
+      "categoria": "Acción",
+      "fecha": "22 jul 2022",
+      "descripcion": "Un exagente de la CIA, ahora convertido en asesino a sueldo, Court Gentry (Gosling), se encuentra fugado y es perseguido por un viejo colega, el agente Lloyd Hansen (Evans).",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/engWUYSxDogn8csr3wJOq4cOzna.jpg"
+    },
+    {
+      "id": "24",
+      "nombre": "Free Guy: tomando el control",
+      "categoria": "Acción",
+      "fecha": "13 ago 2021",
+      "descripcion": "Un trabajador de un banco descubre que en realidad es un npc dentro de un videojuego.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/suaooqn1Mnv60V19MoGxneMupJs.jpg"
+    },
+    {
+      "id": "25",
+      "nombre": "El proyecto Adam",
+      "categoria": "Acción",
+      "fecha": "13 ago 2021",
+      "descripcion": "Un trabajador de un banco descubre que en realidad es un npc dentro de un videojuego.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/k5waciRFMN5bwudDrgFLffoAorm.jpg"
+    },
+    {
+      "nombre": "Chappie",
+      "categoria": "Ciencia Ficción",
+      "fecha": "2015-03-06",
+      "descripcion": "Chappie es un ganster con inteligencia artificial avanzada.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/h767mOshwwM4VzmcuEu7rTZmgRa.jpg",
+      "id": "v7cTrh0"
+    },
+    {
+      "nombre": "Shang-Chi y la leyenda de los Diez Anillos ",
+      "categoria": "Superhéroes",
+      "fecha": "2021-09-03",
+      "descripcion": "Shang-Chi debe enfrentarse al pasado que pensó que había dejado atrás cuando se ve atraído por la red de la misteriosa organización de los Diez Anillos.",
+      "img": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/baOzlpQllZbjyNBcTdeXESh9Y0M.jpg",
+      "id": "Bqs59Wg"
+    }
+  ]
+}
