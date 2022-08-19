@@ -1,0 +1,50 @@
+<h1>Peliculas Populares</h1>
+<mat-divider></mat-divider>
+<br>
+
+<mat-card-subtitle>Consultar cantidad de películas:</mat-card-subtitle>
+<mat-form-field appearance="fill">
+  <mat-label>Cantidad de Peliculas</mat-label>
+  <input matInput 
+         [(ngModel)]="pagina_rango" 
+         type="number"
+         (keyup)="cantidadpeli()"
+         #txtCantidad
+         [value]="historial">
+</mat-form-field>
+
+
+<mat-paginator [length]="pelis.length"
+               [pageSize]=" pagina_rango"
+               [pageSizeOptions]="paginaOptions"
+               (page)="handlePage($event)"
+               aria-label="Select page">
+</mat-paginator>
+
+<hr>
+
+<div fxLayout="row wrap"
+     fxLayout.xs="column"
+     fxLayoutAlign="center"
+     fxLayoutGap="20px"
+>
+
+
+
+  <div fxFlex="15"
+       fxFlex.lg="15"
+       fxFlex.md="26"
+       fxFlex.sm="35"
+       fxFlex.xs="10"
+       
+       *ngFor="let peli of pelis | paginate:pagina_rango:pagina_numero"
+       
+  >
+
+  <app-pelis-tarjeta [peli]="peli"></app-pelis-tarjeta>
+
+  </div>
+
+
+</div>
+

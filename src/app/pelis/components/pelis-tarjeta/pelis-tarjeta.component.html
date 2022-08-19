@@ -1,0 +1,30 @@
+<div class="display">
+<mat-card >
+
+  <img mat-card-image [src]="peli | imagen" >
+
+  <mat-card-header>
+    <mat-card-title> {{ peli.nombre }} </mat-card-title>
+    <mat-card-subtitle> {{ peli.fecha }} </mat-card-subtitle>
+  </mat-card-header>
+<!-- <img mat-card-image [src]="peli | imagen" > -->
+
+  <mat-card-actions>
+    <button mat-raised-button
+            color="primary"
+            [routerLink]="['/peliculasapp', peli.id]"
+            >
+        Ver Mas..
+    </button>
+
+    <button mat-flat-button
+            color="basic"
+            [routerLink]="['/peliculasapp/editar', peli.id]"
+            >    
+        Editar
+    </button>
+
+  </mat-card-actions>
+
+</mat-card>
+</div>

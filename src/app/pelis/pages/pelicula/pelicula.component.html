@@ -1,0 +1,54 @@
+
+
+<mat-grid-list cols="1" *ngIf="!peli; else divPeli">
+  <mat-grid-tile>
+    <mat-spinner></mat-spinner>
+  </mat-grid-tile>
+</mat-grid-list>
+
+<ng-template #divPeli>
+
+  <div fxLayout="row"
+       fxLayout.xs="column"
+       fxLayoutGap="30px"
+       >
+
+    <div fxFlex="20">
+      
+        <img [src]="peli | imagen"
+        >
+    </div>
+
+    <div fxFlex="80">
+
+      <mat-card>
+      <mat-card-title>{{ peli.nombre }}</mat-card-title>
+      <h4>{{ peli.fecha }}</h4>
+      <mat-card-subtitle>Categoria: {{ peli.categoria }}</mat-card-subtitle>
+      
+    
+      <mat-divider></mat-divider>
+
+      <mat-list>
+        <h4>Sinopsis:</h4>
+        <mat-list-item>{{ peli.descripcion }}</mat-list-item>
+      </mat-list>
+
+      <br>
+
+      <button mat-raised-button
+              color="primary"
+              (click)="regresar()"
+      >
+        Regresar
+      </button>
+    </mat-card>
+    </div>
+    
+      
+  </div>
+  <br>
+  <mat-divider></mat-divider>
+
+</ng-template>
+
